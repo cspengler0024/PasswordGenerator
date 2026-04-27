@@ -1,30 +1,24 @@
+## Title
+
+Brewfly Application
+
 ## Description
 
-// The scope of this project is to create a responsive interface HTML, JavaScript and CSS. The user will follow prompts to generate a random password. The randomly generated password will feature a combination of numbers, upper and lowercase letters and special characters.
-
-## Project URL
-
-https://github.com/csherman177/PasswordGenerator
-
-## Deployment
-
-https://csherman177.github.io/PasswordGenerator/
+As a beer enthusiast who loves discovering new breweries and trying unique craft beers.
+I want to use the Brewery Explorer App to easily explore a wide range of breweries, learn about their offerings, and plan memorable tasting adventures.
 
 ## Demo/Screenshots
 
   <table>
   <tr>
-    <td>Password Generator Screenshot</td>
+    <td>Brewfly Screenshot</td>
   </tr>
   <tr>
-    <td><img src= "passwordGenerator.png" height=300 alt="screenshot of password generator"></td>
+    <td><img src= "brewfly.png" height=300 alt="Brewfly Screenshot"></td>
   </tr>
   </table>
- 
-  ## Contact
-  Email: csherman177@gmail.com
 
 ## Author
 
-Author(s): Courtney Sherman
-GitHub: https://github.com/cspengler0024/
+Author:
+Courtney Sherman, https://github.com/csherman177/
